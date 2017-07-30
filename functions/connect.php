@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "userlight";
-$password = "lightspeed123";
-$dbname = "mydb_datahub";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $dbcon = new mysqli($servername, $username, $password, $dbname);
